@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learning Markdown with Github Pages
 
 You can use the [editor on GitHub](https://github.com/latencio4/latencio4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
