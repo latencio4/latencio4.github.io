@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-! [60aafbdf040886cc88bf64d2e39eadef.jpg]
+! [picture of strawberries found] (https://github.com/latencio4/latencio4.github.io/blob/309a22a9cc2b57b63ab067437ab6c545d54b2054/60aafbdf040886cc88bf64d2e39eadef.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
