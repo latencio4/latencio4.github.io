@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-!picture of strawberries found [60aafbdf040886cc88bf64d2e39eadef.jpg]
+! [60aafbdf040886cc88bf64d2e39eadef.jpg]
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
